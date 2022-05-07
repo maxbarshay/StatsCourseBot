@@ -2,7 +2,7 @@
 ## Authors: Samuel Ellertson, Noah Stapp, Max Barshay, Matthew Bennin
 
 ### Setup: 
-- Clone this repository with `git clone https://github.com/SamuelEllertson/StatsCourseBot.git`
+- Clone this repository with `git clone https://github.com/maxbarshay/StatsCourseBot.git`
 - Create db.json
 - run setup.bash
 
