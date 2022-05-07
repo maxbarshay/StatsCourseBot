@@ -1,5 +1,5 @@
 
-## Authors: Samuel Ellertson, Noah Stapp, Max Barshay, Matthew Bennin
+## Authors: Max Barshay, Samuel Ellertson, Noah Stapp, Matthew Bennin
 
 ### Setup: 
 - Clone this repository with `git clone https://github.com/maxbarshay/StatsCourseBot.git`
